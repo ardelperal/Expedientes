@@ -1,0 +1,47 @@
+# Archivos de Microsoft Access
+*.accdb
+*.accde
+*.laccdb
+*.ldb
+*.mdb
+*.mde
+
+# Archivos de configuración sensibles
+tools/.env
+*.env
+
+# Archivos temporales de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos temporales de Office
+~$*
+*.tmp
+
+# Logs
+*.log
+
+# Archivos de backup
+*.bak
+*.backup
+
+# Archivos de sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Carpetas temporales
+temp/
+tmp/
+logs/
+
+# Archivos específicos del IDE
+.vscode/
+.idea/
+
+# Archivos de configuración local
+config.local.*
+settings.local.*
